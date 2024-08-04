@@ -13,13 +13,16 @@ function NavBar() {
         <div className="collapse navbar-collapse" id="navbarText">
           <ul className="navbar-nav m-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link" href="#projet">Mes Projets</a>
+              <a className="nav-link" href="#projets">Mes Projets</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#temoignages">Témoignages</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#travailrecents">Travail Récents</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link" href="#contacts">Contacts</a>
             </li>
           </ul>
           <span className="d-flex navbar-icone">

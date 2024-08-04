@@ -4,8 +4,9 @@ import React from 'react';
 import NavBar from './components/navbar/NavBar';
 import Acceuil from './components/acceuil/Acceuil';
 import Projets from './components/mesprojest/Projets';
-import Temoiniages from './components/témoignage/Temoiniages';
 import TravailRecents from './components/travailrécents/TravailRecents';
+import Contacts from './components/contact/Contacts';
+import Temoignages from './components/témoignage/Temoignages';
 
 function App() {
   return (
@@ -13,8 +14,9 @@ function App() {
       <NavBar/>
       <Acceuil/>
       <Projets/>
-      <Temoiniages />
+      <Temoignages />
   <TravailRecents/>
+  <Contacts />
 
     </div>
   );

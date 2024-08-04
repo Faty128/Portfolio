@@ -1,10 +1,18 @@
-import React from 'react'
+import React from 'react';
+import { Container, Row, Col } from "react-bootstrap";
 
 function Contacts() {
   return (
-    <div>
+    <section className="" id="travailrecents">
+ <Container>
+      <Row>
+        <Col lg={12} md={12}>
      qqqqqfddddddddddddddddddddddddd 
-    </div>
+     </Col>
+      </Row>
+    </Container>
+     </section>
+
   )
 }
 

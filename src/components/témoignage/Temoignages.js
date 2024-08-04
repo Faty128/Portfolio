@@ -1,12 +1,14 @@
 import React from 'react';
 import { Container, Row, Col } from "react-bootstrap";
 
-function Temoiniages() {
+function Temoignages() {
   return (
+    <section className="" id="temoignages">
+
     <Container>
     <Row>
       <Col lg={12} md={12}>
-        <div className="témoignage">
+        <div className="temoignages">
           <h1>Les témoignage</h1>
           <p>
         Voici les témoignage que j'ai reçu pour les projets <br />
@@ -43,7 +45,9 @@ function Temoiniages() {
       </Col>
     </Row>
   </Container>
+  </section>
+
   )
 }
 
-export default Temoiniages;
+export default Temoignages;

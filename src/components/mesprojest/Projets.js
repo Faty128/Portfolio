@@ -8,6 +8,8 @@ import capture4 from "../../assets/img/Capture 4.png";
 
 function Projets() {
   return (
+    <section className="" id="projets">
+
     <Container>
       <Row>
         <Col lg={12} md={12}>
@@ -87,6 +89,8 @@ function Projets() {
         </Col>
       </Row>
     </Container>
+    </section>
+
   );
 }
 

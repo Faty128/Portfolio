@@ -3,10 +3,12 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function TravailRecents() {
   return (
+    <section className="" id="travailrecents">
+
     <Container>
     <Row>
       <Col lg={12} md={12}>
-        <div className="témoignage">
+        <div className="travailrecents">
           <h1>Travail Recents</h1>
           <p>
         En guise de mes compétences 
@@ -43,6 +45,8 @@ function TravailRecents() {
       </Col>
     </Row>
   </Container>
+  </section>
+
   )
 }
 
