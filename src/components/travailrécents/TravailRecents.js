@@ -3,16 +3,16 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function TravailRecents() {
   return (
-    <section className="" id="travailrecents">
+    <section className="travailrecents" id="travail">
 
     <Container>
     <Row>
       <Col lg={12} md={12}>
-        <div className="travailrecents">
+        <div className="div_travail pt-4">
           <h1>Travail Recents</h1>
           <p>
-        En guise de mes compétences 
-        j'ai pu réalisé aussi des projets sur réact js
+        En guise de mes compétences <br />
+        j'ai pu réalisé aussi des projets sur réact js nextjs laravel et nodejs
           </p>
         </div>
       </Col>
@@ -51,3 +51,4 @@ function TravailRecents() {
 }
 
 export default TravailRecents
+ 

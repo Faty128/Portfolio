@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from "react-bootstrap";
+import "./témoignases.css"
 
 function Temoignages() {
   return (
@@ -11,7 +12,7 @@ function Temoignages() {
         <div className="temoignages">
           <h1>Les témoignage</h1>
           <p>
-        Voici les témoignage que j'ai reçu pour les projets <br />
+        Voici les témoignage reçuent pour les projets <br />
         que j'ai déja réalisés.
           </p>
         </div>

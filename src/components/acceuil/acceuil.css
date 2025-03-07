@@ -9,9 +9,11 @@
 }
 
 .faty{
-    width: 80%;
-    height: 50%;
-    border-radius: 100%;
+    display: flex;
+    width: 60%;
+    height: 30%;
+    border-radius: 50%;
+    padding: 10px;
  }
 
 .imgfaty{

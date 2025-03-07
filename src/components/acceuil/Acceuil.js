@@ -29,7 +29,7 @@ function Acceuil() {
               des exemples de mes travaux, des projets que j'ai réalisés. Mon
               objectif est de concevoir des expériences utilisateur intuitives
               et engageantes tout en restant à la pointe des technologies
-              actuelles. N'hésitez à me contacter pour toute opportunité de
+              actuelles. N'hésitez pas à me contacter pour toute opportunité de
               collaboration en développement!
             </p>
             <button className="btn btn-success" type="submit">

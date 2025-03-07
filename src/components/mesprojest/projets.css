@@ -10,7 +10,84 @@
    font-size: 2rem;
    font-weight: bold;
 }
+.projets p{
+    font-size: 1rem;
+    font-weight: 500;
+    color: grey;
+ }
 .imgcv{
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 50vh;
+    border-radius: 10px;
+    box-shadow: rgb(241, 223, 189);
+    box-sizing: border-box;
+}
+.btnTechnologie{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(241, 223, 189);
+    color: orange;
+    border: none;
+    border-radius: 20px;
+
+}
+
+.btnTechnologie2{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(176, 176, 233);
+    color: blue;
+    border: none;
+    border-radius: 20px;
+
+}
+
+.btnTechnologie3{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(183, 233, 183);
+    color: green;
+    border: none;
+    border-radius: 20px;
+
+}
+
+.titre-projet h5{
+    margin-top: 20px;
+    font-size: 1.4rem;
+    font-family: "Ariel" sans-serif;
+    font-weight: 700;
+}
+
+.titre-projet p{
+    font-size: 1rem;
+    font-weight: 500;
+    color: grey;
+}
+
+.btnprojet{
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.btnprojet2{
+    width: 150px;
+    height: 40px;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.btnprojet3{
+    width: 150px;
+    height: 40px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
 }

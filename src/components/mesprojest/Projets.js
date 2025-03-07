@@ -32,15 +32,15 @@ function Projets() {
           <div>
             <button className="btnTechnologie">HTML/CSS</button>
           </div>
-          <div>
+          <div className="titre-projet">
             <h5>Curriculum Vitae</h5>
             <p>
               Voici le cv que j'ai réalisé avec le langage html/css <br />
               mon premier projet en développement web
             </p>
           </div>
-          <a href="">
-            <button className="btnprojet">Voir mon projet</button>
+          <a href="https://faty128.github.io/site-perso-cv/">
+            <button className="btnprojet">Voir mon projet > </button>
           </a>
         </Col>
 
@@ -54,33 +54,33 @@ function Projets() {
 
         <Col lg={6} md={6}>
         <div>
-            <button className="btnTechnologie">Bootstrap</button>
-          </div>
-          <div>
-            <h5>Curriculum Vitae</h5>
+            <button className="btnTechnologie2">Bootstrap</button>
+        </div>
+          <div className="titre-projet">
+            <h5>Portfolio</h5>
             <p>
               Voici le projet que j'ai réalisé avec bootstrap 5 <br />
               C'est le second projet en développement web
             </p>
           </div>
-          <a href="">
-            <button className="btnprojet">Voir mon projet</button>
+          <a href=" https://faty128.github.io/projettrois_Bootstrap/">
+            <button className="btnprojet2">Voir mon projet > </button>
           </a>
         </Col>
       
         <Col lg={6} md={6}>
         <div>
-            <button className="btnTechnologie">Javascript</button>
+            <button className="btnTechnologie3">Javascript</button>
           </div>
-          <div>
+          <div className="titre-projet">
             <h5>Formulaire de validation</h5>
             <p>
               Voici le cv que j'ai réalisé avec le langage JavaScript <br />
-              mon premier projet en développement web
+              mon troisiéme projet en développement web
             </p>
           </div>
-          <a href="">
-            <button className="btnprojet">Voir mon projet</button>
+          <a href="https://faty128.github.io/formulaire-validationJS/">
+            <button className="btnprojet3">Voir mon projet > </button>
           </a>
         </Col>
 
