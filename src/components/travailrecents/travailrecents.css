@@ -1,0 +1,15 @@
+.travailrecents{
+    margin-top: 4rem;
+}
+.btn{
+    background: none;
+    border-radius: 1px solid #3f3e3e;
+    width: 150px;
+    height: 40px;
+    color: green;
+margin: 10px;
+cursor: pointer;
+font-size: 1rem;
+font-weight: 600;
+
+}

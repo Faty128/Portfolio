@@ -19,20 +19,20 @@ function NavBar() {
               <a className="nav-link" href="#temoignages">Témoignages</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#travailrecents">Travail Récents</a>
+              <a className="nav-link" href="#travailrecents">Travail_Récents</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#contacts">Contacts</a>
+              <a className="nav-link" href="#contact">Contacts</a>
             </li>
           </ul>
           <span className="d-flex navbar-icone">
-            <a className="nav-link" href="#linkedin">
+            <a className="nav-link" href="https://www.linkedin.com/">
               <FaLinkedinIn />
             </a>
-            <a className="nav-link" href="#facebook">
+            <a className="nav-link" href="https://www.facebook.com/">
               <FaFacebookF />
             </a>
-            <a className="nav-link" href="#whatsapp">
+            <a className="nav-link" href="https://web.whatsapp.com/">
               <FaWhatsapp />
             </a>
           </span>

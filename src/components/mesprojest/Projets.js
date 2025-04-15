@@ -8,7 +8,7 @@ import capture4 from "../../assets/img/Capture 4.png";
 
 function Projets() {
   return (
-    <section className="" id="projets">
+    <section id="projets">
 
     <Container>
       <Row>

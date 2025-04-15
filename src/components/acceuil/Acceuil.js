@@ -32,9 +32,11 @@ function Acceuil() {
               actuelles. N'hésitez pas à me contacter pour toute opportunité de
               collaboration en développement!
             </p>
+            <a href="#projets">
             <button className="btn btn-success" type="submit">
               Commençons
             </button>
+            </a>
           </Col>
           <Col xs={12} md={6} xl={5}>
             <div className="imgfaty">
