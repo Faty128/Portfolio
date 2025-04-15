@@ -7,7 +7,7 @@ function Contacts() {
       <Container>
         <Row>
           <Col lg={12} className="text-center mb-4">
-            <h1 className="text-white">Contactez-nous</h1>
+            <h1 className="text-white fs-2">Contactez-nous</h1>
             <p className="text-white">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Nostrum repellat esse dicta? <br />

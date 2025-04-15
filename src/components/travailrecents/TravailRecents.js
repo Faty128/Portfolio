@@ -38,7 +38,7 @@ const projets = [
 
 function TravailRecents() {
   return (
-    <section className="travailrecents" id="travailrecents">
+    <section className="travailrecents py-4" id="travailrecents">
       <Container>
         <Row>
           <Col lg={12} className="text-center mb-4">
